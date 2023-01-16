@@ -15,7 +15,7 @@ class Config(object):
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001851338382"))
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Hd2bit_Search_V2_Bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5196243994"))
-   OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Hd2bit_8")
+    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Hd2bit_8")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "hd2links")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", '''Hᴇʏ Bᴜᴅᴅʏ! 😃
