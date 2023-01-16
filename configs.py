@@ -13,9 +13,9 @@ class Config(object):
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "MdiskSearchRobot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOKkBuzn10qUmCEWDg-TQHfJaEWkJa4YESfgPExNfZTO9oWdwp7JYlZemKjfHVfx-268thr9iFrvIQMDxhuyqBqUJ99p3uRH5KUttXj_LelYBULlhz1n8qVOZ_auEz5ZkqtIZd2l2nTH40jUWFfCSwYEDnJrX3qF8mBL8yz6Uqttdfyc-B7swKrNsJHNqL4mBacPDLMIKJF82xJYrawNujvkrbkwkIJataBcPdoki0qg43Sa8kxQWhUDEHGyyGDQJ0UinkUe881qJbfFtrCp4KuzmwFw_Tqkl_ZOQ9_ShK2JDqOMC-EHWOuSBiMtl2RY1VWIP9VbzISlrhYxg-1DfSeUzXQc=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001851338382"))
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "hd2bit_search_v2_bot")
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Hd2bit_Search_V2_Bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5196243994"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "")
+   OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Hd2bit_8")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "hd2links")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", '''Hᴇʏ Bᴜᴅᴅʏ! 😃
