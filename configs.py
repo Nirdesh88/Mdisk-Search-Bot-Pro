@@ -31,7 +31,7 @@ Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ ✅''')
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ,
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅''')
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001657568907")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://hd2bit1:nirdesh800@cluster0.wbtujap.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://hd2bit1:FreeService106@cluster0.wbtujap.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001853651335"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 10))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
